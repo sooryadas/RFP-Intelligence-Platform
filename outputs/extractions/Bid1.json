@@ -1,0 +1,192 @@
+{
+  "bid_id": "Bid1",
+  "fields": {
+    "Bid Number": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Title": {
+      "value": "Student and Staff Computing Devices",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": "None"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    },
+    "Due Date": {
+      "value": "July 9, 2024 at 2:00 PM CST",
+      "sources": [
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": "1"
+        }
+      ],
+      "confidence": 0.98,
+      "notes": ""
+    },
+    "Bid Submission Type": {
+      "value": "Manual hard‑copy submission (sealed envelope, no fax or email)",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": "9"
+        }
+      ],
+      "confidence": 0.94,
+      "notes": ""
+    },
+    "Term of Bid": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Pre Bid Meeting": {
+      "value": "06/10/2024 03:00 PM EDT (Pre‑bid Conference)",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": "None"
+        }
+      ],
+      "confidence": 0.96,
+      "notes": ""
+    },
+    "Installation": {
+      "value": "White‑glove deployment services (asset decaling, reporting, etching, delivery to varied locations)",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": "3"
+        }
+      ],
+      "confidence": 0.94,
+      "notes": ""
+    },
+    "Bid Bond Requirement": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Delivery Date": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Payment Terms": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Any Additional Documentation Required": {
+      "value": "For reseller vendors: copy of all factory‑authorized repair and maintenance certifications; references and past‑project documentation as described in the proposal specifications.",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": "3"
+        }
+      ],
+      "confidence": 0.93,
+      "notes": ""
+    },
+    "MFG for Registration": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Contract or Cooperative to use": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Model_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Part_no": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "Product": {
+      "value": null,
+      "sources": [],
+      "confidence": 0.0,
+      "notes": "Not found in documents"
+    },
+    "contact_info": {
+      "value": {
+        "phone": "972-925-3700",
+        "email": "ProcurementCS@dallasisd.org"
+      },
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": "None"
+        }
+      ],
+      "confidence": 0.97,
+      "notes": ""
+    },
+    "company_name": {
+      "value": "Dallas Independent School District",
+      "sources": [
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": "None"
+        }
+      ],
+      "confidence": 0.98,
+      "notes": ""
+    },
+    "Bid Summary": {
+      "value": "RFP JA‑1207652 seeks proposals for student and staff computing devices (laptops, desktops, tablets, and monitors) for Dallas ISD. Vendors may submit proposals for any or all device categories. Submissions are manual hard‑copy only, due July 9, 2024 at 2:00 PM CST. A pre‑bid conference is scheduled for June 10, 2024. Required documentation includes factory‑authorized repair/maintenance certifications for resellers. All equipment must be new, current OEM models, with white‑glove deployment services.",
+      "sources": [
+        {
+          "file": "Addendum 2 RFP JA-207652 Student and Staff Computing Devices.pdf",
+          "page": "1"
+        },
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": "3"
+        },
+        {
+          "file": "Student and Staff Computing Devices __SOURCING #168884__ - Bid Information - {3} _ BidNet Direct.html",
+          "page": "None"
+        }
+      ],
+      "confidence": 0.94,
+      "notes": ""
+    },
+    "Product Specification": {
+      "value": "All equipment must be new, current‑model OEM products; no substitute or aftermarket items. Attachments/parts must follow manufacturer recommendations or standard industry practices. Deployment must include white‑glove services (asset decaling, reporting, etching, delivery).",
+      "sources": [
+        {
+          "file": "JA-207652 Student and Staff Computing Devices FINAL.pdf",
+          "page": "3"
+        }
+      ],
+      "confidence": 0.95,
+      "notes": ""
+    }
+  },
+  "addendum_changes": [],
+  "validation": {
+    "passed": 10,
+    "failed": 0,
+    "not_found": 10
+  }
+}

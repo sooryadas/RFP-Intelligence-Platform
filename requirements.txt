@@ -1,0 +1,28 @@
+langchain                   # Core LLM orchestration
+langgraph                   # State-machine logic for cyclic agent flows
+langchain-groq              # Integration for lightning-fast Llama 3.3 models
+langchain-community         # Community-contributed tools and loaders
+langchain-openai            # (Optional) OpenAI compatibility layer
+pydantic>=2.0.0  
+
+unstructured                # Base library for document partitioning
+python-pptx                 # Parser for PowerPoint files
+python-docx                 # Parser for Word documents
+pypdf                       # PDF manipulation for splitting large files
+pdfplumber                  # Page-preserving PDF text and table extraction
+beautifulsoup4              # High-speed HTML text extraction
+
+langsmith                   # Specialized tracing for LangChain/LangGraph
+logfire[fastapi,requests]   # Pydantic Logfire — FastAPI + requests instrumentation
+loguru                      # Enhanced logging for Python
+
+fastapi                     # High-performance web framework for the API
+uvicorn[standard]           # ASGI server to run the FastAPI app
+python-dotenv               # For loading configuration from .env files
+requests                    # HTTP library for internal/external API calls
+streamlit                   # Frontend dashboard for the chat interface
+numpy                       # Numerical processing
+pytz                        # Timezone handling for logs
+nest-asyncio                # Support for nested async loops in notebooks/streamlit
+
+qdrant-client[fastembed]    # Qdrant plus local FastEmbed models
