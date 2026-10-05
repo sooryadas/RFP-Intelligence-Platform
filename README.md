@@ -216,8 +216,8 @@ Reported run: Python 3.13.5, pytest 9.1.1, **7 passed in 1.46s**. Tests cover HT
 - `outputs/extractions/Bid1.json` and `outputs/extractions/Bid2.json`: structured extraction examples.
 - `outputs/sample_qa_log.md`: 10 cited sample Q&A entries.
 - `outputs/agent_trace_bid2.md` and its two PNGs: a LangSmith extraction trace example.
-- This README: setup, architecture, design, evaluation, and limitations.
-- Demo: present a 5–10 minute video or live walkthrough of indexing, search, Q&A, and extraction.
+- [Google Drive Pixel demo video](https://drive.google.com/file/d/1eDxo0Id5y9Mm78cQVmX1A5liTJuFd5WE/view?usp=drive_link): demonstrates indexing, search, cited Q&A, and bid extraction. The link is also saved in [demo_video_link.txt](outputs/demo_video_link.txt).
+
 
 ## Known limitations and assumptions
 
